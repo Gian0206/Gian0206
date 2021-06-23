@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giancarlo
-- 👀 I’m interested in lerning programming and finishing my degree
+- 👀 I’m interested in learning programming and finishing my degree
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on "FileNotFoundError"
 - 📫 How to reach me "FileNotFoundError"
