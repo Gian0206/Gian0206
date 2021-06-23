@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Giancarlo
-- 👀 I’m interested in learning programming and finishing my degree
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on "FileNotFoundError"
-- 📫 How to reach me "FileNotFoundError"
+- 👋 Hi, I’m a user
+- 👀 I’m interested in coding of course
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on myself
+- 📫 How to reach me "DirNotFoundError"
 
 <!---
 Gian0206/Gian0206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
